@@ -18,4 +18,4 @@ O serviço possui limitações no uso gratuito e pode haver cobranças caso a qu
 Será utilizado o webservice gratuito para consultar o CEP através da url https://viacep.com.br/
 
 ##### Credenciais.json
-Renomear o arquivo "credenciais-modelo.json" para "credenciais.json" e altere o valor da vaiavel "GoogleAPI_strKey" com a chave de acesso ao serviço do GCP.
+Renomear o arquivo "credenciais-modelo.json" para "credenciais.json" e altere o valor da variável "GoogleAPI_strKey" com a chave de acesso ao serviço do GCP.
